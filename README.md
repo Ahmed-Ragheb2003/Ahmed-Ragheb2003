@@ -35,6 +35,17 @@
 ---
 
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Ragheb2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ragheb2003&theme=tokyo-night)
+
+---
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.ragheb25266@gmail.com)
