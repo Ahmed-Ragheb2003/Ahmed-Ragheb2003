@@ -34,6 +34,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ragheb2003&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragheb2003&layout=compact&theme=tokyonight)
+
+---
 
 ## 🏆 GitHub Trophies
 
