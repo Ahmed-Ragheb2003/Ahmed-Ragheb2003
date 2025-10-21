@@ -11,6 +11,12 @@
 - 🚀 Always exploring new technologies and tools
 
 ---
+## 📄 My Resume
+
+[![View CV](https://img.shields.io/badge/View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YxJkZYzJbFjBKZAsgDmqh9B8TZcYRKJo/preview)
+
+
+---
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
