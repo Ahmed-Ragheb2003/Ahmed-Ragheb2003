@@ -13,8 +13,7 @@
 ---
 ## 📄 My Resume
 
-[![View CV](https://img.shields.io/badge/View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1YxJkZYzJbFjBKZAsgDmqh9B8TZcYRKJo/preview)
-
+[![View CV](https://img.shields.io/badge/View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1PwnsRJGFj7QcPv667Zrl_7XVqxcSPQOQ/view)
 
 ---
 
