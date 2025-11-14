@@ -41,26 +41,26 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahmed-Ragheb2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ragheb2003&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragheb2003&layout=compact&theme=tokyonight)
+![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7hmedragheb&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragheb2003&layout=compact&theme=tokyonight)
 
 ---
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ragheb2003&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7hmedragheb&theme=tokyo-night)
 
 ---
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.ragheb25266@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:AhmedRagheb1712@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ragheb-148118386)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-Ragheb2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medragheb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7hmedragheb)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201119856195)
     
 ---
