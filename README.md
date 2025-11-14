@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7hmedragheb&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragheb2003&layout=compact&theme=tokyonight)
+![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7hmedragheb&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight)
 
 ---
 ## 📈 Contribution Graph
