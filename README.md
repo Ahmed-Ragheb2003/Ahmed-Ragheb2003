@@ -40,16 +40,16 @@
 ---
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_bust=1)
 
 ---
 
 ## 📊 GitHub Stats
-
-![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7hmedragheb&show_icons=true&theme=tokyonight&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight)
+![Ahmed Ragheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=a7hmedragheb&show_icons=true&theme=tokyonight&count_private=true&cache_bust=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight&cache_bust=1)
 
 ---
+
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7hmedragheb&theme=tokyo-night)
