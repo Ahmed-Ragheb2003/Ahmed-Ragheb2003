@@ -40,20 +40,32 @@
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_bust=1)
----
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://streak-stats.demolab.com?user=a7hmedragheb&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache=off" />
+</p>
 
 ---
 
 
+
+## 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=a7hmedragheb&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight" />
+</p>
+
+---
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a7hmedragheb&theme=tokyo-night)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7hmedragheb&theme=tokyo-night" />
+</p>
+
 
 ---
 ## 📫 Contact Me
