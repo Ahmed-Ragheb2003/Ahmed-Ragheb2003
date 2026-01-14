@@ -49,11 +49,10 @@
 
 
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=a7hmedragheb&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a7hmedragheb&theme=tokyonight" alt="GitHub Streak" /></a>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight" />
