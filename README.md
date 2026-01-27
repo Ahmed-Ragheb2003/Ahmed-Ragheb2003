@@ -41,9 +41,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache=off" />
-</p>
+![Trophies](https://github-profile-trophy-a7hmedragheb.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-bg=true&no-frame=true)
 
 ---
 
