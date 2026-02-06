@@ -12,11 +12,10 @@
 
 ---
 ## 📄 My Resume
-
 [![View CV](https://img.shields.io/badge/View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1PwnsRJGFj7QcPv667Zrl_7XVqxcSPQOQ/view)
 
----
 
+---
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,12 +38,7 @@
 
 ---
 
-
-
-
 ## 📊 GitHub Stats & Streak
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight" />
 </p>
@@ -60,13 +54,10 @@
 
 ---
 ## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy-a7hmedragheb.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-bg=true&no-frame=true)
-
 
 ---
 ## 📫 Contact Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.ragheb25266@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:AhmedRagheb1712@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7medragheb)
