@@ -44,13 +44,12 @@
 
 ## 📊 GitHub Stats & Streak
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a7hmedragheb&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight" />
 </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a7hmedragheb&theme=tokyonight" alt="GitHub Streak" /></a>
 
 
 ---
@@ -64,8 +63,8 @@
 
 ![Trophies](https://github-profile-trophy-a7hmedragheb.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-bg=true&no-frame=true)
 
----
 
+---
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.ragheb25266@gmail.com)
@@ -75,4 +74,3 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201119856195)
     
 ---
-
