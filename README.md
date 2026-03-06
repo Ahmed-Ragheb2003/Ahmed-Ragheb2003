@@ -45,6 +45,13 @@
 </div>
 
 
+<div align="center">
+      <div align="center">
+   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=a7hmedragheb&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
+      </div>
+</div>
+
+
 
 ---
 ## 📈 Contribution Graph 
