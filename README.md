@@ -62,7 +62,6 @@
 
 ---
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy-a7hmedragheb.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-bg=true&no-frame=true)
 
 ---
 ## 📫 Contact Me
