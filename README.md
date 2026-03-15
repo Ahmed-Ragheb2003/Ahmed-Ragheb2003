@@ -57,13 +57,6 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=a7hmedragheb&theme=tokyo-night" /> </p>
 
-
-
-
----
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy-a7hmedragheb.vercel.app/?username=a7hmedragheb&theme=tokyonight&no-bg=true&no-frame=true)
-
 ---
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.ragheb25266@gmail.com)
