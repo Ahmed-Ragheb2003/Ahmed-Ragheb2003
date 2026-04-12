@@ -43,16 +43,20 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Stats
 
-<div align="center">
-   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=a7hmedragheb&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="450" />
-      </div>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=a7hmedragheb&layout=compact&theme=tokyonight" height="170"/><br>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=a7hmedragheb&count_private=true&show_icons=true&theme=tokyonight" height="170"/>
+</p>
 
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a7hmedragheb&theme=tokyonight" alt="GitHub Streak" /></a>
-</div>
+---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=a7hmedragheb&theme=tokyonight" height="170"/>
+</p>
 
 
 
