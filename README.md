@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Ahmed Ragheb 👋</h1>
-<h2 align="center">IT Student at FCI_ZU | Backend .NET Developer | .NET trainee @ ITI</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ahmed+Ragheb;Backend+.NET+Developer;Building+Scalable+Web+APIs;ASP.NET+Core+%7C+Clean+Architecture;Always+Learning+and+Growing" />
+</p>
 
+<h3 align="center">🎓 IT Student @ FCI_ZU | 🚀 .NET Trainee @ ITI</h3>
 
 ## 🧠 About Me
 
