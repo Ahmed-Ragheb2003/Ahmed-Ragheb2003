@@ -6,15 +6,18 @@
 
 ## 🧠 About Me
 
-- 💻 Backend Developer specializing in **ASP.NET Core** & **C#**
-- ⚙️ Experienced with **RESTful API**, **Entity Framework Core**, and **SQL Server**
-- 🧩 Skilled in **LINQ**, **Swagger**, **Postman**, and **Clean Architecture**
-- 🎯 Focused on creating secure and scalable backend systems
-- 🚀 Always exploring new technologies and tools
-
+- 💻 Backend .NET Developer passionate about building scalable and secure systems
+- ⚙️ Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
+- 🧩 Strong experience with **Clean Architecture**, **LINQ**, and **SQL Server**
+- 🚀 Focused on performance, maintainability, and best practices
+ 
 ---
-## 📄 My Resume
-[![View CV](https://img.shields.io/badge/View%20My%20CV-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1PwnsRJGFj7QcPv667Zrl_7XVqxcSPQOQ/view)
+## 📄 Resume
+<p align="center">
+<a href="https://drive.google.com/file/d/1PwnsRJGFj7QcPv667Zrl_7XVqxcSPQOQ/view">
+  <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 
 ---
