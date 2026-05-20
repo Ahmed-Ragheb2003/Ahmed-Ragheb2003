@@ -5,11 +5,11 @@
 <h3 align="center">🎓 IT Student @ FCI_ZU | 🚀 .NET Trainee @ ITI</h3>
 
 ## 🧠 About Me
-
 - 💻 Backend .NET Developer passionate about building scalable and secure systems
 - ⚙️ Specialized in **ASP.NET Core**, **REST APIs**, and **Entity Framework Core**
 - 🧩 Strong experience with **Clean Architecture**, **LINQ**, and **SQL Server**
 - 🚀 Focused on performance, maintainability, and best practices
+- 🌐 Portfolio: [Ahmed Ragheb Portfolio](https://ahmedragheb-portfolio.vercel.app/)<br>
  
 ---
 ## 📄 Resume
