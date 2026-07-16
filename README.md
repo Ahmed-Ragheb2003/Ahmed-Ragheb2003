@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00FFAA&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Ahmed+Ragheb;Backend+.NET+Developer;Building+Scalable+Web+APIs;ASP.NET+Core+%7C+Clean+Architecture;Always+Learning+and+Growing" />
 </p>
 
-<h3 align="center">🎓 IT Student @ FCI_ZU | 🚀 .NET Trainee @ ITI</h3>
+<h3 align="center"> Software Engineer | .NET Backend Developer </h3>
 
 ## 🧠 About Me
 - 💻 Backend .NET Developer passionate about building scalable and secure systems
